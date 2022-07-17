@@ -18,4 +18,12 @@ j) Lambda functions
 k) Map, Reduce and Filter
 l) Conditional Statements and Looping
 
+# About Skill Test
+The skill test contains 20 Multiple Choice Questions. 
+The questions spread across 3 difficulty levels - Easy, Medium, Advanced
+Each question lasts for 60 seconds only.
+Each Skipped question will be marked incorrect.
+There is no negative marking for any wrong answer.
+There is only one option correct for each question.
 # Summary
+Best Score: 15.00
