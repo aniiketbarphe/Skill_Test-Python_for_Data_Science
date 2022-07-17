@@ -29,5 +29,5 @@ There is only one option correct for each question.
 Best Score: 15.00
 ![Leaderboard](https://user-images.githubusercontent.com/84449238/179398780-272b73f9-8c42-4bac-afaa-506571730206.JPG)
 
-Competition Link:- https://datahack.analyticsvidhya.com/contest/python-for-data-science/#About 
-Rank Scored: 37 out of 215 registered participants! 
+Competition Link:- https://datahack.analyticsvidhya.com/contest/python-for-data-science/#About  
+Rank Scored: 37 out of 215 registered participants!  
