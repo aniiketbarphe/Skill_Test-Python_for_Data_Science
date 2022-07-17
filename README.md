@@ -17,3 +17,5 @@ i) Pandas
 j) Lambda functions
 k) Map, Reduce and Filter
 l) Conditional Statements and Looping
+
+# Summary
