@@ -7,13 +7,13 @@ The topics covered in the skill test :
 
 a) Programming
 b) Data Structures
-List
-Tuple
-Dictionary
-Set
-Numpy Array
-String
-Pandas
-Lambda functions
-Map, Reduce and Filter
-Conditional Statements and Looping
+c) List
+d) Tuple
+e) Dictionary
+f) Set
+g) Numpy Array
+h) String
+i) Pandas
+j) Lambda functions
+k) Map, Reduce and Filter
+l) Conditional Statements and Looping
