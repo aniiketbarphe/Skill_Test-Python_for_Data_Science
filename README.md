@@ -5,8 +5,8 @@ This skill test evaluates how much you have grasped Python in a practical manner
 
 The topics covered in the skill test :
 
-Programming
-Data Structures
+a) Programming
+b) Data Structures
 List
 Tuple
 Dictionary
